@@ -1,0 +1,11 @@
+/home/avvos/dev/Projects/dotnet/bank/bin/Debug/netcoreapp2.2/bank.deps.json
+/home/avvos/dev/Projects/dotnet/bank/bin/Debug/netcoreapp2.2/bank.runtimeconfig.json
+/home/avvos/dev/Projects/dotnet/bank/bin/Debug/netcoreapp2.2/bank.runtimeconfig.dev.json
+/home/avvos/dev/Projects/dotnet/bank/bin/Debug/netcoreapp2.2/bank.dll
+/home/avvos/dev/Projects/dotnet/bank/bin/Debug/netcoreapp2.2/bank.pdb
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.csprojAssemblyReference.cache
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.csproj.CoreCompileInputs.cache
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.AssemblyInfoInputs.cache
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.AssemblyInfo.cs
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.dll
+/home/avvos/dev/Projects/dotnet/bank/obj/Debug/netcoreapp2.2/bank.pdb
