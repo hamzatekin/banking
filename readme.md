@@ -1,6 +1,11 @@
-# simple priority queue for banks
+# A Simple .Net Priority Queue Implementation for Banks
 
-Priority can be any double type. Higher the more priority
+Priority of a customer can be any double type. Higher the number, more the priority.
 
-reference: https://stackoverflow.com/questions/683041/how-do-i-use-a-priorityqueue
-https://visualstudiomagazine.com/articles/2012/11/01/priority-queues-with-c.aspx
+### References:
+
+- https://stackoverflow.com/questions/683041/how-do-i-use-a-priorityqueue
+- https://stackoverflow.com/questions/52078661/what-is-a-priority-queue-and-what-is-it-useful-for
+- https://docs.microsoft.com/en-us/dotnet/api/system.icomparable?view=netframework-4.8
+- https://docs.microsoft.com/en-us/dotnet/api/system.collections.generic.list-1?view=netframework-4.8
+- https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/classes-and-structs/classes
